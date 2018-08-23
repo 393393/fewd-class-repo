@@ -17,6 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 
 ## Project Description
+I would like to make a website named scared designs using scared geometry to create a website that has working links and animated geometry and be reposive to pixel changes.
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 

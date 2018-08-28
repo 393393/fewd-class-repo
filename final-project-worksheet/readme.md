@@ -18,12 +18,13 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 I would like to make a website named scared designs using scared geometry to create a website that has working links and animated geometry and be reposive to pixel changes.
+blob:https://imgur.com/787deb2f-85d4-4e11-a86d-740a7b06ac8d
+https://i.imgur.com/rJc6rPt.jpg
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
 ## Wireframes
-
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+<img src="https://i.imgur.com/TWYI5ba.png" alt="wireframe"> 
 
 ## Priority Matrix
 
